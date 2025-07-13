@@ -1,0 +1,68 @@
+Reference Link(s) :
+
+https://emn178.github.io/online-tools/sha256.html
+https://andersbrownworth.com/blockchain/blockchain
+
+
+🔑 Why Proof of Work is Required in Web3
+Web3 promotes a decentralized, trustless internet—without central authorities. But removing trust from central authorities (like banks or companies) introduces risks such as:
+
+Double-spending
+
+Sybil attacks (multiple fake identities)
+
+Network manipulation
+
+Spam or fake blocks
+
+Proof of Work helps to mitigate these problems.
+
+🧱 What is Proof of Work?
+PoW is a consensus mechanism. It ensures that participants (nodes or miners) agree on the correct state of the blockchain without needing to trust each other.
+
+It works by requiring miners to:
+
+Solve a computational puzzle (hashing).
+
+The puzzle is hard to solve but easy to verify.
+
+The first miner to solve it adds the next block to the blockchain.
+
+The network accepts the block if the solution is valid.
+
+⚙️ What Does PoW Achieve?
+✅ 1. Consensus Without Trust
+Everyone agrees on the same version of the truth (the blockchain) without a central party.
+
+✅ 2. Security Against Double Spending
+It’s computationally expensive to rewrite history, so fraud becomes nearly impossible.
+
+✅ 3. Prevention of Sybil Attacks
+Creating thousands of fake identities doesn’t help unless you have computational power—which is costly.
+
+✅ 4. Spam Protection
+PoW introduces cost to actions (like mining), discouraging spam.
+
+⚠️ Trade-offs and Criticisms of PoW
+Pros	Cons
+Highly secure	Energy-intensive
+Proven in Bitcoin	Slower throughput
+Decentralized (ideally)	Hardware favors large miners
+
+🔄 Alternatives to PoW
+Since PoW is energy-inefficient, Web3 systems are increasingly exploring or adopting:
+
+Proof of Stake (PoS): Validators are chosen based on the amount of cryptocurrency they “stake”.
+
+Delegated PoS, Proof of Authority, etc.
+
+Ethereum, for example, moved from PoW to PoS in The Merge (2022).
+
+💡 In a Real-World Interview, You Might Say:
+"Proof of Work in Web3 ensures that no single party can control the blockchain. It forces miners to commit real computational resources, making it prohibitively expensive to attack the network. It was vital in early Web3 systems like Bitcoin and Ethereum (pre-Merge) to achieve decentralized consensus, prevent double spending, and protect against Sybil attacks. Though energy-heavy, it laid the foundation for trustless systems. Today, networks are evolving toward PoS and other mechanisms to balance scalability and sustainability."
+
+
+
+
+[Previous Hash] + [Current Transaction Data] + (?NONCE IS EVANULTED?) ==>> {TO finally match the hash of the block}
+All the blocks chanined together are called as block chain.
