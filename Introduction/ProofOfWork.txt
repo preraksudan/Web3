@@ -68,3 +68,6 @@ Ethereum, for example, moved from PoW to PoS in The Merge (2022).
 
 [Previous Hash] + [Current Transaction Data] + (?NONCE IS EVANULTED?) ==>> {TO finally match the hash of the block}
 All the blocks chanined together are called as block chain.
+
+
+Assuming Hash on a block is pre-determined.
