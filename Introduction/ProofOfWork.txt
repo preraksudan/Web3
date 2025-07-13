@@ -3,6 +3,7 @@ Reference Link(s) :
 https://emn178.github.io/online-tools/sha256.html
 https://andersbrownworth.com/blockchain/blockchain
 https://animagraffs.com/how-cryptocurrency-works/
+https://bitcoin.org/bitcoin.pdf
 
 
 🔑 Why Proof of Work is Required in Web3
